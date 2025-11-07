@@ -106,3 +106,13 @@ Each VLAN remains isolated as per design
 🧰 Tools Used
 
 Cisco Packet Tracer 8.x or later
+
+## How to Run
+1. Open the `.pkt` file in Cisco Packet Tracer.
+2. Verify VLANs and trunk configurations.
+3. Test DHCP allocation on VLAN clients.
+4. Check EtherChannel load balancing with `show etherchannel summary`.
+
+## Author
+**Thiwanka Rathnayaka**  
+Undergraduate | BICT | University of Sri Jayewardenepura
